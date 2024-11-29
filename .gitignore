@@ -1,0 +1,31 @@
+# 编译生成的文件
+*.o
+*.exe
+*.out
+*.obj
+*.dll
+*.so
+
+# IDE 文件
+*.vscode/
+*.idea/
+*.swp
+*.swo
+*.vs/
+.git
+
+# 临时文件
+*.tmp
+*.log
+
+#数据库文件
+*.db
+
+#其他文件
+C++嵌入式开发体系笔记.md
+CamBridgeDictionary.html
+Release
+CodeCheck/
+CodeOnClass/
+CMakeLearning/
+build/
